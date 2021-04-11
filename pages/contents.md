@@ -3,3 +3,6 @@
 #### 1. table of content/index/MOC
 #### 2. pinning/bookmarking favorites pages/blocks (e.g. [[Logseq]])
 #### 3. You can also put many different things, depending on your personal workflow.
+## [[工作事项]]
+## [[工作日志]]
+## [[个人事项]]
