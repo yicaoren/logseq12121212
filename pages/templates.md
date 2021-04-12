@@ -12,12 +12,10 @@ title: Templates
 ##### note: should add a way to show existing template names, to check for duplicates, and potentially to allow for overwriting existing templates
 the block and any children will now appear as an option in the list of templates
 ### To rename a template:
-
-click and edit the block property template: template_name
+#### click and edit the block property template: template_name
 ### To edit an existing template:
-
-locate the template and click the parent and/or child blocks to enter editing mode, make any needed changes
-note that these changes will not propagate to existing instances of template (i.e. places where you previously inserted a copy of the template)
+#### locate the template and click the parent and/or child blocks to enter editing mode, make any needed changes
+#### note that these changes will not propagate to existing instances of template (i.e. places where you previously inserted a copy of the template)
 ### To use a template (i.e. insert a copy of the template):
 
 in editing mode, type / and select Template
