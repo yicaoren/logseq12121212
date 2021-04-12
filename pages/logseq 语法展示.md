@@ -12,9 +12,9 @@ title: Logseq 语法展示
 :id: 607462d8-3c58-4d67-a28b-0ed37e767b50
 :END:
 ### make template   *制作模板*
-### copy as text   *复制成text格式*
-### copy as json
-### cut
+### copy as text   *复制成 text 格式*
+### copy as json   *复制成 json 格式*
+### cut   *剪切*
 ## 使用 '/' 呼出的语法
 ### Later\ Now\ Todo\ Doing\ Done
 ####
