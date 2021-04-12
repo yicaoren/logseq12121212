@@ -21,6 +21,9 @@ the block and any children will now appear as an option in the list of templates
 #### select the template you want to insert and type Enter
 ## All Template
 ### For By Everyday
+:PROPERTIES:
+:template: For By Everyday
+:END:
 #### {{embed [[工作事项]] }}
 #### {{embed [[个人事项]] }}
 #### {{embed [[工作日志]] }}
