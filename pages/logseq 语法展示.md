@@ -2,6 +2,7 @@
 title: Logseq 语法展示
 ---
 
+## Logseq的「/」
 ## Later\ Now\ Todo\ Doing\ Done
 ###
 ## A\ B\ C
