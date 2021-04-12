@@ -3,8 +3,8 @@ title: Logseq 语法展示
 ---
 
 ## 使用 '/' 呼出的语法
-## Later\ Now\ Todo\ Doing\ Done
-###
+### Later\ Now\ Todo\ Doing\ Done
+####
 ## A\ B\ C
 ## Deadline\ Scheduled
 ## Query
