@@ -19,3 +19,4 @@ the block and any children will now appear as an option in the list of templates
 ### To use a template (i.e. insert a copy of the template):
 #### in editing mode, type / and select Template
 #### select the template you want to insert and type Enter
+##
