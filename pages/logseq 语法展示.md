@@ -3,6 +3,9 @@ title: Logseq 语法展示
 ---
 
 ## 右键呼出的含义
+:PROPERTIES:
+:heading: true
+:END:
 ###
 ## 使用 '/' 呼出的语法
 ### Later\ Now\ Todo\ Doing\ Done
