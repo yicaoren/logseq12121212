@@ -49,4 +49,10 @@ the block and any children will now appear as an option in the list of templates
 :END:
 #### **个人事项**
 ##### TODO 学习粤语教程第四章
+##### LATER 研究 Logseq 语法
+:PROPERTIES:
+:todo: 1618130720287
+:done: 1618133258053
+:later: 1618133258937
+:END:
 ####
