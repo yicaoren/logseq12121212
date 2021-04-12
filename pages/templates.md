@@ -24,8 +24,6 @@ the block and any children will now appear as an option in the list of templates
 :PROPERTIES:
 :template: For_By_Everyday
 :END:
-#### {{embed [[个人事项]] }}
-#### {{embed [[工作日志]] }}
 #### **工作事项**
 ##### TODO 提醒Nike付款至鲸穹账户
 :PROPERTIES:
@@ -47,15 +45,19 @@ the block and any children will now appear as an option in the list of templates
 :PROPERTIES:
 :todo: 1618208360638
 :END:
+#####
 #### **个人事项**
 ##### TODO 学习粤语教程第四章
 ##### LATER 研究 Logseq 语法
 :PROPERTIES:
 :todo: 1618130720287
-:done: 1618133258053
 :later: 1618133258937
+:done: 1618133258053
 :END:
+#####
 #### **工作日志**
 ##### [[2021窗机新能效问题]]
 ##### [[2021年市场推广计划]]
+##### [[2021新窗机情况]]
+##### [[澳门来来Midea橱窗支持]]
 #####
