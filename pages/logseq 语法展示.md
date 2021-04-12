@@ -7,12 +7,12 @@ title: Logseq 语法展示
 ### add to property   *自定义页面属性*
 #### 待研究
 ### Open in sidebar   *将 block 在右边栏中打开*
-### copy block ref
+### copy block ref   *复制 block 跳转地址*
 :PROPERTIES:
 :id: 607462d8-3c58-4d67-a28b-0ed37e767b50
 :END:
-### make template
-### copy as text
+### make template   *制作模板*
+### copy as text   **
 ### copy as json
 ### cut
 ## 使用 '/' 呼出的语法
@@ -36,4 +36,4 @@ title: Logseq 语法展示
 ### Embed Bilibili\ Youtube\ Vimeo Video
 ### Underline
 ### Html Inline
-## ((607462d8-3c58-4d67-a28b-0ed37e767b50))
+##
