@@ -20,7 +20,7 @@ the block and any children will now appear as an option in the list of templates
 #### in editing mode, type / and select Template
 #### select the template you want to insert and type Enter
 ## All Template
-### For_By_Everyday
+### #.For_By_Everyday
 :PROPERTIES:
 :template: For_By_Everyday
 :END:
