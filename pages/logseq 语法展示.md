@@ -5,7 +5,7 @@ title: Logseq 语法展示
 ## 使用 '/' 呼出的语法
 ### Later\ Now\ Todo\ Doing\ Done
 ####
-## A\ B\ C
+### A\ B\ C
 ## Deadline\ Scheduled
 ## Query
 ## Draw
