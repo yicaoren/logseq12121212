@@ -19,7 +19,7 @@ click and edit the block property template: template_name
 
 locate the template and click the parent and/or child blocks to enter editing mode, make any needed changes
 note that these changes will not propagate to existing instances of template (i.e. places where you previously inserted a copy of the template)
-To use a template (i.e. insert a copy of the template):
+### To use a template (i.e. insert a copy of the template):
 
 in editing mode, type / and select Template
 select the template you want to insert and type Enter
