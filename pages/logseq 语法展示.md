@@ -6,7 +6,7 @@ title: Logseq 语法展示
 ### convert to a heading   *将block设置为标题，即加大字号*
 ### add to property   *自定义页面属性*
 #### 待研究
-### Open in 司的rbar
+### Open in sidebar   **
 ## 使用 '/' 呼出的语法
 ### Later\ Now\ Todo\ Doing\ Done
 ####
