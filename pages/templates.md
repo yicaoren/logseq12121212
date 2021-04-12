@@ -5,12 +5,11 @@ title: Templates
 ## Logseq 的模板功能是先把模板做好，并形成一整个块，再右键制作模板。
 ## Template官方说明
 ### To create or define a template:
-
-right-click a block bullet
-choose Make Template
-enter a template name and click Submit
-note: should fix it to allow Enter to also submit the template name
-note: should add a way to show existing template names, to check for duplicates, and potentially to allow for overwriting existing templates
+#### right-click a block bullet
+#### choose Make Template
+#### enter a template name and click Submit
+##### note: should fix it to allow Enter to also submit the template name
+##### note: should add a way to show existing template names, to check for duplicates, and potentially to allow for overwriting existing templates
 the block and any children will now appear as an option in the list of templates
 ### To rename a template:
 
