@@ -12,7 +12,7 @@ title: Logseq 语法展示
 :id: 607462d8-3c58-4d67-a28b-0ed37e767b50
 :END:
 ### make template   *制作模板*
-### copy as text   **
+### copy as text   *复制成text格式*
 ### copy as json
 ### cut
 ## 使用 '/' 呼出的语法
