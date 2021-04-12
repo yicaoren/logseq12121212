@@ -7,7 +7,11 @@ title: Logseq 语法展示
 ### add to property   *自定义页面属性*
 #### 待研究
 ### Open in sidebar   *将 block 在右边栏中打开*
-###
+### copy block ref
+### make template
+### copy as text
+### copy as json
+### cut
 ## 使用 '/' 呼出的语法
 ### Later\ Now\ Todo\ Doing\ Done
 ####
