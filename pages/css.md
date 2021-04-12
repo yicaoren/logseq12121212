@@ -4,7 +4,7 @@ title: css
 
 ## custom.ss主题语法
 ### tags
-#### 以下「data-ref=**」
+#### 以下「data-ref=**」中，将**修改为任意文字，
 #### ==================================================
 TAGS
 - Styles all tags
