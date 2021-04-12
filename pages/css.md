@@ -80,5 +80,48 @@ a.tag[data-ref="WIP"] {
 }
 
 /*
-### COLORFUL INDENTATION *大纲左侧竖线颜色定义*
-###
+### COLORFUL INDENTATION
+#### *大纲左侧竖线颜色定义*
+#### ==================================================
+COLORFUL INDENTATION
+==================================================
+*/
+
+.block-children {
+    border-left: 0;
+}
+
+.block-children [level] {
+    border-left-width: 1px;
+    border-left-style: solid;
+}
+
+.block-children [level="3"] {
+    border-left-color: var(--pink-level-3);
+}
+
+.block-children [level="4"] {
+    border-left-color: var(--pink-level-4);
+}
+
+.block-children [level="5"] {
+    border-left-color: var(--pink-level-5);
+}
+
+.block-children [level="6"] {
+    border-left-color: var(--pink-level-6);
+}
+
+.block-children [level="7"] {
+    border-left-color: var(--pink-level-7);
+}
+
+.block-children [level="8"] {
+    border-left-color: var(--pink-level-8);
+}
+
+.block-children [level="9"] {
+    border-left-color: var(--pink-level-9);
+}
+
+/*
