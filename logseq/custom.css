@@ -306,7 +306,7 @@ a.tag[data-ref="Event"] {
     background-color: var(--ls-color-pumpkin) !important;
 }
 
-a.tag[data-ref="工作事项"] {
+a.tag[data-ref="想法"] {
     background-color: var(--ls-color-sunflower) !important;
 }
 
