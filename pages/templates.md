@@ -22,7 +22,7 @@ the block and any children will now appear as an option in the list of templates
 ## All Template
 ### For By Everyday
 :PROPERTIES:
-:template: For By Everyday
+:template: ^^For By Everyday^^
 :END:
 #### {{embed [[工作事项]] }}
 #### {{embed [[个人事项]] }}
