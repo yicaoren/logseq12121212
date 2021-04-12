@@ -8,6 +8,9 @@ title: Logseq 语法展示
 :END:
 ###
 ## 使用 '/' 呼出的语法
+:PROPERTIES:
+:heading: true
+:END:
 ### Later\ Now\ Todo\ Doing\ Done
 ####
 ### A\ B\ C
