@@ -3,7 +3,7 @@ title: Logseq 语法展示
 ---
 
 ## 右键呼出的含义
-### convert to a heat
+### convert to a heading   *将*
 ## 使用 '/' 呼出的语法
 ### Later\ Now\ Todo\ Doing\ Done
 ####
