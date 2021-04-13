@@ -3,7 +3,7 @@ title: Templates
 ---
 
 ## Logseq 的模板功能是先把模板做好，并形成一整个块，再右键制作模板。
-## For_By_Everyday
+## #For_By_Everyday
 ### **工作事项**
 :PROPERTIES:
 :todo: 1618208284909
